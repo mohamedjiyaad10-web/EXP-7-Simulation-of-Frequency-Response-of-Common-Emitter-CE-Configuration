@@ -13,3 +13,5 @@ Procedure
 6.	Click on the Run option → Advanced → select AC Analysis → enter the required amplitude, time delay and step-time values. 
 7.	Click on the Run option → open the Simulation Window → place the probe to obtain the output graph. 
 Circuit Diagram
+
+<img width="1460" height="782" alt="Screenshot 2026-09-08 132410" src="https://github.com/user-attachments/assets/f09517a6-ab57-41e6-a2c3-5ed1a0c17f12" />
